@@ -1,0 +1,9 @@
+.add .body{
+    background-color:  rgb(214, 248, 255)
+}
+.list-body{
+    background-color: rgb(251, 233, 178);;
+}
+.completed-body{
+    background-color: rgb(225, 248, 237);
+}
